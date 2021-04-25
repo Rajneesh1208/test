@@ -19,3 +19,6 @@ public class test1 {
 	}
 
 }
+
+
+This is java code for printing user defined array.
